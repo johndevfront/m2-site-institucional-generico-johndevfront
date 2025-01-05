@@ -154,6 +154,7 @@ h1> span {
 .container_duvida{
     display: flex;
     flex-direction: row;
+    position: relative;
     width: 80%;
     height: 80%;
     justify-content: space-between;
@@ -172,6 +173,8 @@ h1> span {
     height: 18rem;
     width: 533px;
     padding-left: 25px;
+    position: sticky;
+
 }
 
 .aside_elements_ladoEsquerdo h2 {
@@ -206,6 +209,7 @@ h1> span {
 
 .aside_ladoDireito {
    width: 583px;
+   
 }
 
 .aside_ladoDireitoTitle{
