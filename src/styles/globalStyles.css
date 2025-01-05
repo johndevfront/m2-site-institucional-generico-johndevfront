@@ -13,31 +13,31 @@
    --font-family-1: "Inter",sans-serif;
 
    --font-title-1: 52px;
-   --font-title-1-height: 600;
+   --font-title-1-weight: 600;
    --font-title-1-lineheight: 140%;
 
    --font-title-2: 40px;
-   --font-title-2-height: 600;
+   --font-title-2-weight: 600;
    --font-title-2-lineheight: 160%;
 
    --font-title-3: 32px;
-   --font-title-3-height: 400;
+   --font-title-3-weight: 400;
    --font-title-3-lineheight: 160%;
 
    --font-text-1: 20px;
-   --font-text-1-height: 600;
+   --font-text-1-weight: 600;
    --font-text-1-lineheight: 150%;
 
    --font-text-2: 18px;
-   --font-text-2-height: 400;
+   --font-text-2-weight: 400;
    --font-text-2-lineheight: 150%;
   
    --font-text-3: 16px;
-   --font-text-3-height: 400;
+   --font-text-3-weight: 400;
    --font-text-3-lineheight: 150%;
 
    --font-text-4: 16px;
-   --font-text-4-height: 600;
+   --font-text-4-weight: 600;
    --font-text-4-lineheight: 150%;
 
    
